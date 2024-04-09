@@ -12,8 +12,7 @@
   },
   "dependencies": {
     "express": "^4.18.2",
-    "twilio": "^3.0.0",
-    "anthropic": "^0.0.0"
+    "twilio": "^3.0.0"
   },
   "engines": {
     "node": ">=14"
