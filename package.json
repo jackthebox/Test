@@ -7,13 +7,14 @@
   "author": "Render Developers",
   "license": "MIT",
   "private": false,
-  "scripts": {
-    "start": "node app.js"
-  },
   "dependencies": {
     "express": "^4.18.2",
     "twilio": "^3.0.0"
   },
+  "scripts": {
+    "start": "node app.js"
+  },
+  
   "engines": {
     "node": ">=14"
   }
